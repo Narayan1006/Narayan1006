@@ -5,6 +5,8 @@
 Building intelligent systems where backend engineering meets artificial intelligence.
 
 🌐 **Portfolio:** https://narayan-portfolio-zv2k.vercel.app/
+<img width="1900" height="977" alt="image" src="https://github.com/user-attachments/assets/1eba73e7-5ec9-4c9e-8137-aee55fa51c2e" />
+
 
 ---
 
