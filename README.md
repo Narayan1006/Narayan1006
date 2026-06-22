@@ -112,4 +112,5 @@ Offline teaching assistant powered by local language models for note generation 
 
 ## GitHub Stats
 
-(Paste your existing GitHub stats cards below this section.)
+<img width="962" height="210" alt="image" src="https://github.com/user-attachments/assets/ba4e0964-54e1-45d2-bf6a-5d9d99900a46" />
+
