@@ -26,20 +26,34 @@
 
 <sub>Updated Nov 2026</sub>
 
----
-
 ### `FEATURED CHANNELS`
 
-<div align="center">
-
-<a href="https://github.com/Narayan1006/VireHire"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Narayan1006&repo=VireHire&theme=transparent&bg_color=0B0C0E&title_color=6B9A55&text_color=EDEBE6&icon_color=6B9A55&border_color=1F2328" /></a>
-<a href="https://github.com/Narayan1006/RankSense"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Narayan1006&repo=RankSense&theme=transparent&bg_color=0B0C0E&title_color=6B9A55&text_color=EDEBE6&icon_color=6B9A55&border_color=1F2328" /></a>
-<a href="https://github.com/Narayan1006/Factory_Automation"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Narayan1006&repo=Factory_Automation&theme=transparent&bg_color=0B0C0E&title_color=6B9A55&text_color=EDEBE6&icon_color=6B9A55&border_color=1F2328" /></a>
-<a href="https://github.com/Narayan1006/FieldAgent"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Narayan1006&repo=FieldAgent&theme=transparent&bg_color=0B0C0E&title_color=6B9A55&text_color=EDEBE6&icon_color=6B9A55&border_color=1F2328" /></a>
-
-</div>
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Narayan1006/VireHire">VeriHire AI</a></b> · <a href="https://vire-hire.vercel.app">Live</a><br/>
+      Hiring verification against public GitHub and LeetCode activity instead of resume keywords.<br/>
+      <sub><code>FastAPI</code> <code>ChromaDB</code> <code>React</code> <code>Groq</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Narayan1006/RankSense">RankSense</a></b> · <a href="https://huggingface.co/spaces/Narayan1006/Ranksense">Live</a><br/>
+      Offline ranking of 100,000 candidates in about 25 seconds on CPU, with no network.<br/>
+      <sub><code>PyTorch</code> <code>BM25</code> <code>RankNet</code> <code>Streamlit</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Narayan1006/Factory_Automation">Factory Automation</a></b><br/>
+      Digital twin of a Bosch production line (1.18M parts) that forecasts defects 30-75 minutes early.<br/>
+      <sub><code>PyTorch</code> <code>MQTT</code> <code>InfluxDB</code> <code>Grafana</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Narayan1006/FieldAgent">FieldAgent</a></b><br/>
+      Offline-first clinical assistant for rural ASHA workers with on-device Gemma.<br/>
+      <sub><code>Flutter</code> <code>SQLite</code> <code>Firebase</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### `STACK`
 
@@ -54,14 +68,8 @@
 ### `ACTIVITY`
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan1006&bg_color=0B0C0E&color=EDEBE6&line=6B9A55&point=EDEBE6&area=true&area_color=6B9A55&hide_border=true&title_color=6B9A55" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Narayan1006&show_icons=true&theme=transparent&bg_color=0B0C0E&title_color=6B9A55&text_color=EDEBE6&icon_color=6B9A55&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan1006&layout=compact&theme=transparent&bg_color=0B0C0E&title_color=6B9A55&text_color=EDEBE6&hide_border=true" />
-
+  <img src="https://ghchart.rshah.org/6B9A55/Narayan1006" alt="GitHub contributions" width="90%" />
 </div>
-
 ---
 
 <div align="center"><sub>Currently exploring: LangChain · AI agents · Spring Boot architecture</sub></div>
