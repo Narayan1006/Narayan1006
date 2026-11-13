@@ -1,118 +1,48 @@
 # Narayan Singh
 
-**Backend Engineer • AI Builder • Java Developer Intern**
+CS undergraduate building AI and backend systems.
 
-Building intelligent systems where backend engineering meets artificial intelligence.
-
-🌐 **Portfolio:** https://narayan-portfolio-zv2k.vercel.app/
-
-
+[Portfolio](https://narayan-portfolio-zv2k.vercel.app/) · [LinkedIn](https://linkedin.com/in/singhnarayan) · [Codolio](https://codolio.com/profile/Narayan_1006) · [Email](mailto:singhnarayan0866@gmail.com)
 
 ---
 
-## About Me
+## What I work on
 
-I'm a Computer Science Engineering student at ABES Engineering College and currently working as a Java Developer Intern.
+I like building AI systems that show their evidence, and software that still works under tight constraints, like no internet or CPU-only machines. B.Tech CSE at ABES Engineering College.
 
-My primary interests lie in Backend Development, Artificial Intelligence, Machine Learning, and Retrieval-Augmented Generation (RAG) systems.
+## Featured projects
 
-I enjoy building software that solves real-world problems, from scalable backend applications to AI-powered platforms.
+**[VeriHire AI](https://github.com/Narayan1006/VireHire)** · [Live](https://vire-hire.vercel.app)
+Hiring verification that checks candidates against public GitHub and LeetCode activity instead of resume keywords. Semantic retrieval, evidence verification, LLM reasoning.
+`Python` `FastAPI` `ChromaDB` `React` `Groq` `Docker`
 
----
+**[RankSense](https://github.com/Narayan1006/RankSense)** · [Live](https://huggingface.co/spaces/Narayan1006/Ranksense)
+Offline candidate ranking: BM25 narrows 100,000 candidates to 1,000, then a PyTorch RankNet reranks them. About 25 seconds on CPU with no network.
+`Python` `PyTorch` `BM25` `Streamlit`
 
-## Featured Projects
+**[Factory Automation](https://github.com/Narayan1006/Factory_Automation)**
+Digital twin of a Bosch production line (1.18M parts) that forecasts defects 30-75 minutes before inspection. MQTT telemetry into InfluxDB with Grafana dashboards.
+`Python` `PyTorch` `MQTT` `InfluxDB` `Grafana`
 
-### VeriHire AI
+**[FieldAgent](https://github.com/Narayan1006/FieldAgent)**
+Offline-first clinical assistant for rural ASHA health workers, with on-device Gemma for referral notes and SQLite-first storage that syncs when online.
+`Flutter` `SQLite` `Firebase`
 
-AI-powered hiring platform using semantic retrieval, evidence verification, and LLM reasoning to evaluate candidates beyond keyword matching.
+## Competitive programming
 
-**Tech:** Python, FastAPI, ChromaDB, PostgreSQL, React, Groq LLM
+CodeChef 1438 · Codeforces 1130 (max 1251) · 343 problems solved · 25 contests
+<!-- TODO: update these numbers occasionally -->
 
----
+## Tech I use
 
-### RankSense AI
+**Languages:** Java, Python, SQL, JavaScript, C
+**Backend:** Spring Boot, FastAPI, REST APIs
+**AI/ML:** PyTorch, RAG, ChromaDB
+**Frontend:** React
+**Tools:** Git, Docker
 
-Large-scale candidate ranking system built using BM25 retrieval and RankNet reranking architecture.
+## Currently exploring
 
-**Tech:** Python, PyTorch, BM25, RankNet, Streamlit
+LangChain · AI agents · Spring Boot architecture
 
----
-
-### FieldAgent
-
-Offline-first AI workflow platform designed for environments with unreliable internet connectivity.
-
-**Tech:** Flutter, Firebase, AI Integration
-
----
-
-### Offline Classroom AI
-
-Offline teaching assistant powered by local language models for note generation and lesson-aware conversations.
-
-**Tech:** Python, Ollama, PySide6
-
----
-
-## Tech Stack
-
-**Languages**
-
-* Java
-* Python
-* C
-* JavaScript
-
-**Backend**
-
-* Spring Boot
-* REST APIs
-* FastAPI
-
-**Frontend**
-
-* React
-* Vite
-* Tailwind CSS
-
-**AI & Machine Learning**
-
-* RAG
-* LLMs
-* ChromaDB
-* NumPy
-* Pandas
-* Scikit-Learn
-
-**Cloud & DevOps**
-
-* AWS
-* Docker
-* Linux
-* Git
-* GitHub
-
----
-
-## Currently Exploring
-
-* LangChain
-* AI Agents
-* Advanced RAG Systems
-* Spring Boot Architecture
-* Modern React Ecosystem
-
----
-
-## Connect With Me
-
-* LinkedIn: https://linkedin.com/in/singhnarayan
-* GitHub: https://github.com/Narayan1006
-* Email: [singhnarayan0866@gmail.com](mailto:singhnarayan0866@gmail.com)
-
----
-
-## GitHub Stats
-
-<img width="962" height="210" alt="image" src="https://github.com/user-attachments/assets/ba4e0964-54e1-45d2-bf6a-5d9d99900a46" />
-
+<!-- TODO: remove or edit anything here you cannot explain in an interview -->
