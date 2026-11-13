@@ -47,11 +47,7 @@
 
 ### `STACK`
 
-<div align="center">
-
-![Stack](https://skillicons.dev/icons?i=java,python,spring,fastapi,react,pytorch,docker,git&theme=dark)
-
-</div>
+<img src="stack.svg" width="100%" alt="Tech stack: Java, Python, SQL, JavaScript, C; Spring Boot, FastAPI, REST APIs; PyTorch, RAG, ChromaDB; React; Git, Docker" />
 
 ---
 
